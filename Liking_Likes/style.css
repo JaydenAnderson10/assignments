@@ -1,0 +1,110 @@
+#mainContent{
+    display: flex;
+    justify-content: center;
+}
+
+#header{
+    display: flex;
+    color: white;
+    background-color: black;
+    padding: 15px;
+    width: 650px;
+    justify-items: center;
+    margin: auto;
+}
+
+#mainHeader{
+    display: flex;
+    justify-content: center;
+}
+
+#myPfp{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 45px;
+}
+
+#myBox{
+    vertical-align: middle;
+    border: 3px solid black;
+    padding: 10px;
+    height: 250px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#myName{
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+#myBox h2{
+    margin-left: 20px;
+}
+
+#neilM{
+    width: 400px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+#neilHeader{
+    justify-content: space-between;
+    display: flex;
+    margin: 5px;
+}
+
+.likeButton{
+    height: 50px;
+    width: 100px;
+    background-color: yellow;
+    font-size: 25px;
+}
+
+#discord{
+    margin-left: 5px;
+}
+
+#nicholeK{
+    width: 400px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+#nicholeHeader{
+    justify-content: space-between;
+    display: flex;
+    margin: 5px;
+}
+
+
+#comic{
+    margin-left: 5px;
+}
+
+
+#jimR{
+    width: 400px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+#jimHeader{
+    justify-content: space-between;
+    display: flex;
+    margin: 5px;
+}
+
+
+#album{
+    margin-left: 5px;
+}
+
+#jimLikes{
+    margin-left: 100px;
+}
+
+#users{
+    margin-left: 20px;
+}

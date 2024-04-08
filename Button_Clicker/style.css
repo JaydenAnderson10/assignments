@@ -1,0 +1,63 @@
+#container{
+    width: auto;
+}
+
+#main{
+    display: flex;
+}
+
+#header{
+    background-color: #cccccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 820px;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+#Login{
+    color: white;
+    background-color: #63ace8;
+    width: 75px;
+    height: 25px;
+}
+
+#ninja1{
+    display: flex;
+    align-items: center;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.ninbut{
+    background-color: yellow;
+    width: 75px;
+    height: 25px;
+    border: 3px solid black;
+}
+
+#ninja2{
+    display: flex;
+    align-items: center;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+#addDef{
+    border: 3px solid black;
+    margin-bottom: 20px;
+    height: 140px;
+}
+
+#add{
+    background-color: green;
+    padding: 10px;
+    border: 3px solid black;
+    margin-left: 80px;
+}
+
+#mainLeft{
+    vertical-align: auto;
+}
